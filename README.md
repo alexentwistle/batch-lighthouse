@@ -3,7 +3,7 @@ Run the Chrome Lighthouse Audit on a list of bulk URLs.
 
 How it works:
 - Supply the URLs you want to test in your urls.txt file
-- Run audit.bat to run the Chrome Lighthouse audit on those URLs in quiet, headless mode. 
-- audit.bat will output the Lighthouse results for each page as a HTML file
+- Run audit.bat to audit the provided URLs with Chrome Lighthouse (in quiet, headless mode). 
+- Each page's results will be outputted as an HTML file
 
-For testing, URLS.txt currently contains 10 random article URLs from Wikipedia.
+For testing purposes, urls.txt currently contains 10 random articles from Wikipedia.
