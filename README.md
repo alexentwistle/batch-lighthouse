@@ -7,3 +7,6 @@ How it works:
 - Each page's results will be outputted as an HTML file
 
 For testing purposes, urls.txt currently contains 10 random articles from Wikipedia.
+
+# TODO
+- Add installation instructions for lighthouse
